@@ -1,3 +1,4 @@
+//basic6
 function exFunc(param){
     console.log(param + ' go');
 }

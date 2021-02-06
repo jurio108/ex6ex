@@ -1,3 +1,4 @@
+//basic2
 let nm = undefined;
 
 nm = function getNm(){

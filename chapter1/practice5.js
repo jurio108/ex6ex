@@ -1,3 +1,4 @@
+//basic5
 let friends = [
     {name : "라이언", age : 5},
     {name : "어피치", age : 4},

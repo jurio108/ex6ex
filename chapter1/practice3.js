@@ -1,3 +1,4 @@
+//basic3
 let s1 = Symbol('key');
 let s2 = Symbol('key');
 
